@@ -2,6 +2,10 @@
 
 [![Build Worker](https://github.com/blackmoonfank/example-voting-app/actions/workflows/call-docker-build-worker.yaml/badge.svg)](https://github.com/blackmoonfank/example-voting-app/actions/workflows/call-docker-build-worker.yaml)
 
+[![Build Result](https://github.com/blackmoonfank/example-voting-app/actions/workflows/call-docker-build-result.yaml/badge.svg)](https://github.com/blackmoonfank/example-voting-app/actions/workflows/call-docker-build-result.yaml)
+
+[![Build Vote](https://github.com/blackmoonfank/example-voting-app/actions/workflows/call-docker-build-vote.yaml/badge.svg)](https://github.com/blackmoonfank/example-voting-app/actions/workflows/call-docker-build-vote.yaml)
+
 A simple distributed application running across multiple Docker containers.
 
 ## Getting started
